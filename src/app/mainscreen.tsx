@@ -5,6 +5,12 @@ const Mainscreen = () => {
         <div>
             <AboutMe/>
             hello
+            {/*
+             * my work
+             * my projects
+             * my qualifications
+             *
+            */}
         </div>
     );
 };
