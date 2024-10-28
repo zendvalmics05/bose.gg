@@ -9,7 +9,8 @@ const Mainscreen = () => {
              * my work
              * my projects
              * my qualifications
-             *
+             * my media
+             * my contacts
             */}
         </div>
     );
