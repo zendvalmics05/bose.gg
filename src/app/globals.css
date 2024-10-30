@@ -5,11 +5,26 @@
 
 
 :root {
-  --japanese-indigo: #244855;
-  --cadet-grey: #90aead;
-  --flesh: #fbe9d0;
-  --cinnabar: #e64833;
-  --milk-chocolate: #874f41;
+  --rose-quartz: #a790a5;
+  --chinese-violet: #875c74;
+
+  --sunset: #f2c57c;
+  --buff: #ddae7e;
+
+  --light-coral: #ef6f6c;
+  --bittersweet-shimmer: #c14953;
+  --crayola-red: #e83151;
+
+  --tea-green: #c5ebc3;
+  --cambridge-blue: #7fb685;
+  --emerald: #70b77e;
+  --hooker-green: #426a5a;
+
+  --pearl: #e5dcc5;
+  --platinum: #e2e2e2;
+  --timberwolf: #d8d4d5;
+  --davy-grey: #4c4c47;
+  --jet: #2d2d2a;
 }
 
 body {
